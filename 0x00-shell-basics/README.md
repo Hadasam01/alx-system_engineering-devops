@@ -1,1 +1,1 @@
-Where I am
+This script shows where I am
